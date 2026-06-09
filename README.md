@@ -42,7 +42,6 @@ I am looking for junior-level opportunities in software development, developer p
 **Database:** MySQL  
 **Frontend:** Vue, HTML, CSS, JavaScript  
 **Tools:** Git, GitHub, IntelliJ IDEA, PyCharm, DataGrip, Postman, Maven
-## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-Backend-blue)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Framework-brightgreen)
