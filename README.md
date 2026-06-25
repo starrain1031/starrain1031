@@ -39,7 +39,7 @@ I am looking for junior-level opportunities in software development, developer p
 **Backend:** Spring Boot, MyBatis, RESTful APIs, JWT Authentication  
 **Database:** MySQL  
 **Frontend:** Vue, HTML, CSS, JavaScript  
-**Tools:** Git, GitHub, IntelliJ IDEA, PyCharm, DataGrip, Postman, Maven
+**Tools:** Git, GitHub, IntelliJ IDEA, PyCharm, DataGrip, Postman, Maven，PowerBI
 
 ![Java](https://img.shields.io/badge/Java-Backend-blue)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Framework-brightgreen)
@@ -63,8 +63,8 @@ I am looking for junior-level opportunities in software development, developer p
 
 - Junior Software Developer
 - Backend Developer
-- Developer Programmer
 - Systems Analyst
+- Data analyst
 - Database-related development roles
 
 ---
